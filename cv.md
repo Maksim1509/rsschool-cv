@@ -39,7 +39,6 @@ const myLanguages = (results) => Object.entries(results)
 
 * Educational projects:
   + [Chat](https://thawing-fortress-04345.herokuapp.com/): Messaging app between users.
-
     [Source](https://github.com/Maksim1509/frontend-project-lvl4)
 
     Тechnologies are used in the project:
@@ -57,6 +56,9 @@ const myLanguages = (results) => Object.entries(results)
   + [HTML Academy](https://htmlacademy.ru/profile/id1042271)
 
 ***
+
+### English
+**A2** (I have a practice of reading technical documentation in English)
 
   
 

@@ -1,14 +1,18 @@
 # My urriculum vitae
+![Photo](my_photo.jpg)
+
 ## Abdulkhalikov Maksim
 
 ***
 
-### Contacts
+### Contacts:
 * Russia, Saratov
-* Telegram: +79053200084
+* Telegram: [Maksim_1509](https://t.me/Maksim_1509)
 * Discord: Max(@Maksim1509)
 * Github: https://github.com/Maksim1509
 * Email: 23maaa23@gmail.com
+
+***
 
 ### _So, What about me?_
 
@@ -37,7 +41,7 @@ const myLanguages = (results) => Object.entries(results)
 
 ### Experience
 
-* Educational projects:
+* **Educational projects**:
   + [Chat](https://thawing-fortress-04345.herokuapp.com/): Messaging app between users.
     [Source](https://github.com/Maksim1509/frontend-project-lvl4)
 
@@ -57,13 +61,7 @@ const myLanguages = (results) => Object.entries(results)
 
 ***
 
-### English
-**A2** (I have a practice of reading technical documentation in English)
-
+### Languages
+  * **Russian** - native speaker
+  * **English** - A1(A2 - in process... I have a practice of reading technical documentation in English)
   
-
-
-
-
-
-
